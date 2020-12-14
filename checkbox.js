@@ -1,8 +1,8 @@
-function toggle(checkbox)
+function toggle()
 {
-    var link = document.getElementById("agreelink");
-    if (checkbox.checked)
-        link.style.display = "inline";
-    else
-        link.style.display = "none";
+    var checkbox = document.getElementById("checkbox");
+    if (checkbox.checked==0){
+      alert("Please check the checkbox before continuing");
+      return false;
+  }
 }
