@@ -103,8 +103,6 @@ a:active {
 	margin-top: -28px;
 }
 	
-
-}
 #footer {
     background-color: rgba(75,75,75,1.00);
     margin-left: -28px;
@@ -145,4 +143,5 @@ a:active {
     color: white;
     text-decoration: none;
     background-color: rgba(75,75,75,1.00);
+}
 }
