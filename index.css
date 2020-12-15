@@ -1,0 +1,38 @@
+@charset "utf-8";
+body {
+    font-family: 'Cardo', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+ font-family: 'Oswald', sans-serif;
+ text-transform: uppercase;
+}
+#header {
+    font-weight: bolder;
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 2px 2px 11px #4370ED;
+    background-image: -webkit-linear-gradient(270deg,rgba(125,208,255,1.00) 0%,rgba(19,129,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(125,208,255,1.00) 0%,rgba(19,129,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(125,208,255,1.00) 0%,rgba(19,129,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(125,208,255,1.00) 0.00%,rgba(19,129,255,1.00) 100%);
+    color: #FFFFFF;
+    margin-top: -12px;
+    margin-left: -23px;
+    margin-right: -23px;
+    margin-bottom: -11px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+@media screen{
+.header {
+}
+#wave {
+    margin-left: -10px;
+    filter: drop-shadow(0 10px 10px #888);
+    width: 140vw;
+}
+
+
+}
