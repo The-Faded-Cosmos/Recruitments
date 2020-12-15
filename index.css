@@ -71,6 +71,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 2em;
     border-collapse: collapse;
 }
+}
 
 a:link {
  	color: white;
@@ -106,7 +107,7 @@ a:active {
 #footer {
     background-color: rgba(75,75,75,1.00);
     margin-left: -28px;
-    margin-right: -40px;
+    margin-right: -20px;
     padding-bottom: 14px;
     padding-left: 9px;
     padding-top: 6px;
@@ -143,5 +144,4 @@ a:active {
     color: white;
     text-decoration: none;
     background-color: rgba(75,75,75,1.00);
-}
 }
