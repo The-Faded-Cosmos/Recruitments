@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg width="1440px" height="306px" viewbox="0 0 1440 306" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
-  <g id="wave">
-    <g id="wave-(1)">
-      <path d="M0 256C0 256 130 320.325 240 303C350 285.675 400 186.3 480 160C560 133.3 640 197.4 720 186.7C800 176.4 880 117 960 128C1040 139 1120 197 1200 208C1280 219 1330.46 172.385 1370.46 178.085L1440 192L1440 0L1400 0C1360 0 1280 0 1200 0C1120 0 1040 0 960 0C880 0 800 0 720 0C640 0 560 0 480 0C400 0 320 0 240 0C160 0 80 0 40 0L0 0L0 256Z" id="Shape" fill="#1381FF" fill-rule="evenodd" stroke="none" />
-    </g>
-  </g>
-</svg>
