@@ -95,6 +95,7 @@ a:hover {
 	text-decoration: none;
 	animation-name: bgcolor;
   	animation-duration: 1s;
+	animation-fill-mode: forwards;
 }
 
 a:active {
