@@ -122,6 +122,12 @@ a:active {
     color: rgba(188,188,188,1.00);
 }
 
+@keyframes bgcolorlink {
+  from {background-color: rgba(188,188,188,1.00);}
+  to {background-color: rgba(188,188,188,1.00);}
+}
+
+
 #link {
     float: right;
     padding-right: 3px;	
@@ -146,6 +152,7 @@ a:active {
   	color: black;
 	text-decoration: none;
 	background-color: rgba(75,75,75,1.00);
+	animation-name: bgcolorlink;
 }
 
 #linkhome:active {
